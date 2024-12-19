@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#achievements">Achievements</a></li>
+          <li><a href="#skills">Skills</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am an engineering student majoring in Computer Science and Engineering
+        (CSE), currently in my third year. As a dedicated and hardworking
+        individual, I am passionate about acquiring new knowledge and skills. My
+        curiosity drives me to constantly explore new technologies and
+        innovations. I believe in pushing my limits and am always determined to
+        succeed in every challenge I undertake. Whether it's mastering
+        programming languages, solving complex problems, or collaborating on
+        projects, I am always eager to learn and grow both academically and
+        professionally.
+      </p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <p>
+        I am currently pursuing my BE CSE degree at Sathyabama Institute of
+        Science and Technology and completed my high school at St. Dominic's
+        Anglo-Indian Higher Secondary School.
+      </p>
+    </section>
+
+    <section id="achievements">
+      <h2>Achievements</h2>
+      <ul>
+        <li>Completed my internship at Codsoft</li>
+        <li>Runner up of Hackathon 2022</li>
+        <li>Top 10 in Code Wars Challenges</li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>C language</li>
+        <li>Web Development (HTML, CSS, JavaScript)</li>
+        <li>React.js</li>
+        <li>Node.js</li>
+      </ul>
+    </section>
+
+    <footer>
+      <div class="contact">
+        <p>Contact me at: rithi0423@gmail.com</p>
+        <p>Phone: 7200314604</p>
+      </div>
+    </footer>
+  </body>
+</html>
